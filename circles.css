@@ -1,0 +1,11 @@
+canvas
+{
+	width: 100%;
+	background-color: #1D2439;
+}
+
+body, html
+{
+	margin: 0;
+	height: 100%;
+}
